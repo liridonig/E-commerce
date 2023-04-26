@@ -1,0 +1,15 @@
+.nav {
+  background-color: antiquewhite;
+}
+
+.navigation {
+  position: relative;
+  display: flex;
+  padding: 10px;
+}
+
+.nav-links-container {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+}
